@@ -1,0 +1,260 @@
+[
+    {
+        "adPictures": [
+            {
+                "adPictureId": "19a76c52-338a-4be6-a583-74cd40a7d804",
+                "framesIndex": 0,
+                "adName": "快手名菜",
+                "pictureUrl": "https://img11.yiguoimg.com/d/items/2020/200331/9288740194363519_1125x344.jpg?w=1125&h=344",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20200331002&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            }
+        ],
+        "carouselPictures": [
+            {
+                "adPictureId": "ede9d44e-1ee8-45da-ae1e-5a4e2132a85d",
+                "framesIndex": 1,
+                "adName": "快手名菜",
+                "pictureUrl": "https://img12.yiguoimg.com/d/items/2020/200331/9288740194330751_1125x652.jpg?w=1125&h=652",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20200331002&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            },
+            {
+                "adPictureId": "ff5ebb5a-5f54-4922-8530-0144bdabe4d7",
+                "framesIndex": 2,
+                "adName": "小礼卡-送礼有新意",
+                "pictureUrl": "https://img10.yiguoimg.com/d/items/2020/200319/9288740124338291_1125x652.jpg?w=1125&h=652",
+                "hrefType": 28,
+                "hrefValue": "pages/activity/activity?pageId=20200319001",
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            },
+            {
+                "adPictureId": "71cfb167-4819-4150-8fab-31f04dc8ea6a",
+                "framesIndex": 3,
+                "adName": "会员礼",
+                "pictureUrl": "https://img12.yiguoimg.com/d/items/2020/200408/9288740231948424_1125x652.jpg?w=1125&h=652",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20200408001&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            },
+            {
+                "adPictureId": "9377b1c9-997b-43f5-88ed-cfa140a0d9c7",
+                "framesIndex": 5,
+                "adName": "银联4月满99减10",
+                "pictureUrl": "https://img11.yiguoimg.com/d/items/2020/200402/9288740204587138_1125x652.jpg?w=1125&h=652",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20200402001&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            },
+            {
+                "adPictureId": "6ffb5e46-9ff8-4a94-aa66-3c4522f82560",
+                "framesIndex": 6,
+                "adName": "1",
+                "pictureUrl": "https://img10.yiguoimg.com/d/items/2020/200402/9288740205537410_1125x652.jpg?w=1125&h=652",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20200402003&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            },
+            {
+                "adPictureId": "24a4edab-afc1-41a1-926a-cf3781b5daca",
+                "framesIndex": 7,
+                "adName": "积分换生鲜",
+                "pictureUrl": "https://img13.yiguoimg.com/d/items/2019/190627/9288738360567515_1125x652.jpg?w=1125&h=652",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20200326002&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            }
+        ],
+        "fastReportsList": [
+            {
+                "fastReportId": "54cd497b-57a5-4264-aa6d-961e812c19e7",
+                "fastReportTitle": "会员尊享系统升级，4月10日来领",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20200408001&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "applyTerminal": 10
+            },
+            {
+                "fastReportId": "03336388-083e-4678-b6c8-eb92f4a5b9db",
+                "fastReportTitle": "移动/联通积分免费兑储值卡",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20200326002&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "applyTerminal": 10
+            },
+            {
+                "fastReportId": "b047e331-bc71-4edb-b66e-e8d7e969b0f9",
+                "fastReportTitle": "不良信息投诉与举报",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20190506001&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "applyTerminal": 10
+            }
+        ],
+        "navComponentList": [
+            {
+                "navId": "6cc48fab-55bc-481b-aeb5-fe02d2d2dee5",
+                "navIndex": 1,
+                "navName": "精品水果",
+                "length": 144,
+                "width": 144,
+                "pictureUrl": "https://img12.yiguoimg.com/d/items/2019/190621/9570213293991637_144.png?w=144&h=144",
+                "hrefType": 2,
+                "hrefValue": "shuiguoleimu",
+                "fontColor": null,
+                "backgroudColor": null
+            },
+            {
+                "navId": "b168fb95-4578-415e-b615-511a6678db94",
+                "navIndex": 2,
+                "navName": "精选肉类",
+                "length": 144,
+                "width": 144,
+                "pictureUrl": "https://img14.yiguoimg.com/d/items/2019/190621/9570213294024405_144.png?w=144&h=144",
+                "hrefType": 2,
+                "hrefValue": "05_channelhome",
+                "fontColor": null,
+                "backgroudColor": null
+            },
+            {
+                "navId": "d55a00bc-df06-4d8b-b6a7-04786c52df66",
+                "navIndex": 3,
+                "navName": "海鲜水产",
+                "length": 144,
+                "width": 144,
+                "pictureUrl": "https://img14.yiguoimg.com/d/items/2019/190621/9570213294057173_144.png?w=144&h=144",
+                "hrefType": 2,
+                "hrefValue": "04_channelhome",
+                "fontColor": null,
+                "backgroudColor": null
+            },
+            {
+                "navId": "ed73d3da-94bc-4d90-b3be-a67c0cc7edfa",
+                "navIndex": 4,
+                "navName": "快手料理",
+                "length": 144,
+                "width": 144,
+                "pictureUrl": "https://img11.yiguoimg.com/d/items/2019/190621/9570213294089941_144.png?w=144&h=144",
+                "hrefType": 2,
+                "hrefValue": "10_channelhome",
+                "fontColor": null,
+                "backgroudColor": null
+            },
+            {
+                "navId": "b3a4bc18-9026-4423-9538-ae5971551e6f",
+                "navIndex": 5,
+                "navName": "免费兑卡",
+                "length": 144,
+                "width": 144,
+                "pictureUrl": "https://img14.yiguoimg.com/d/items/2019/190621/9570213294286549_144.png?w=144&h=144",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20190424001&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "fontColor": null,
+                "backgroudColor": null
+            },
+            {
+                "navId": "3cad2892-36c4-4ea7-b096-5ce0658da68a",
+                "navIndex": 6,
+                "navName": "会员福利",
+                "length": 144,
+                "width": 144,
+                "pictureUrl": "https://img12.yiguoimg.com/d/items/2019/190621/9570213294155477_144.png?w=144&h=144",
+                "hrefType": 3,
+                "hrefValue": "https://h5common.yiguo.com/memberGift/index.html?componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "fontColor": null,
+                "backgroudColor": null
+            },
+            {
+                "navId": "95723156-62f9-4102-b297-54ba072a60d7",
+                "navIndex": 7,
+                "navName": "银行活动",
+                "length": 144,
+                "width": 144,
+                "pictureUrl": "https://img11.yiguoimg.com/d/items/2019/190621/9570213294188245_144.png?w=144&h=144",
+                "hrefType": 3,
+                "hrefValue": "https://h5template.yiguo.com/?code=20190102009&componentid=B7733F0F-84C9-4960-948E-2022CB6055D3",
+                "fontColor": null,
+                "backgroudColor": null
+            },
+            {
+                "navId": "c7b8adb2-c44d-4d94-a3ec-a137b582d350",
+                "navIndex": 8,
+                "navName": "即烹美食",
+                "length": 144,
+                "width": 144,
+                "pictureUrl": "https://img09.yiguoimg.com/d/items/2019/190621/9570213294221013_144.png?w=144&h=144",
+                "hrefType": 2,
+                "hrefValue": "10_channelhome",
+                "fontColor": null,
+                "backgroudColor": null
+            }
+        ]
+    },
+    [
+        {
+            "adPictures": {
+                "adPictureId": "21f11693-0774-4f99-b1d6-c6f609175272",
+                "framesIndex": 0,
+                "adName": "腰线",
+                "pictureUrl": "https://img09.yiguoimg.com/d/items/2019/190724/9288738603542264_1125x149.jpg?w=1125&h=149",
+                "hrefType": 0,
+                "hrefValue": null,
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            }
+        },
+        {
+            "adPictures": {
+                "adPictureId": "2224f04e-ff78-495a-a6a8-67be28d824ca",
+                "framesIndex": 0,
+                "adName": "每日-榴莲肉",
+                "pictureUrl": "https://img13.yiguoimg.com/d/items/2020/200325/9288740163430521_1125x455.jpg?w=1125&h=455",
+                "hrefType": 1,
+                "hrefValue": "1386597",
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            }
+        },
+        {
+            "adPictures": {
+                "adPictureId": "68d888f0-9e46-4d5d-b152-3d5ffa5e806c",
+                "framesIndex": 0,
+                "adName": "蜜柑",
+                "pictureUrl": "https://img09.yiguoimg.com/d/items/2020/200325/9288740163463289_1125x455.jpg?w=1125&h=455",
+                "hrefType": 1,
+                "hrefValue": "6000039860",
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            }
+        },
+        {
+            "adPictures": {
+                "adPictureId": "68d888f0-9e46-4d5d-b152-3d5ffadf631d5",
+                "framesIndex": 0,
+                "adName": "底部腰线",
+                "pictureUrl": "https://img14.yiguoimg.com/d/items/2019/190624/9288738348934872_1125x26.jpg?w=1125&h=26",
+                "hrefType": 1,
+                "hrefValue": "6000039860",
+                "applyTerminal": 10,
+                "title": null,
+                "subTitle": null
+            }
+        }
+    ]
+]

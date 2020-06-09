@@ -1,0 +1,93 @@
+[
+    {
+        "Method": "",
+        "RspCode": 1,
+        "RspMsg": "",
+        "RspData": {
+            "data": {
+                "AdSwiperImage35": {
+                    "GroupId": "AdSwiperImage35",
+                    "GroupTitle": "Banners",
+                    "CountdownSeconds": null,
+                    "Banners": [],
+                    "IsDynamic": false
+                },
+                "AdTitleLine36": {
+                    "GroupId": "AdTitleLine36",
+                    "GroupTitle": "腰线",
+                    "CountdownSeconds": null,
+                    "Banners": [],
+                    "IsDynamic": false
+                },
+                "AdCategory37": {
+                    "GroupId": "AdCategory37",
+                    "GroupTitle": "分类",
+                    "CountdownSeconds": null,
+                    "Banners": [
+                        {
+                            "GroupName": "37",
+                            "Remark1": "",
+                            "CommodityId": "",
+                            "BannerId": "56dcfeff-9299-432b-82e0-34fee7f318b6",
+                            "BannerName": "做美食",
+                            "LinkChannel": 3,
+                            "LinkType": 3,
+                            "LinkCode": "food",
+                            "LinkUrl": "http://article.m.yiguo.com/Article/Category/food",
+                            "PictureUrl": "http://img13.yiguoimg.com/e/ad/2016/161020/586030925119660372_120x96.png",
+                            "AdPost": "",
+                            "Tag": null,
+                            "Badge": null
+                        },
+                        {
+                            "GroupName": "37",
+                            "Remark1": "",
+                            "CommodityId": "",
+                            "BannerId": "b7c44cee-4044-4361-b5d3-3918f53f9b03",
+                            "BannerName": "涨知识",
+                            "LinkChannel": 3,
+                            "LinkType": 3,
+                            "LinkCode": "know",
+                            "LinkUrl": "http://article.m.yiguo.com/Article/Category/know",
+                            "PictureUrl": "http://img13.yiguoimg.com/e/ad/2016/161020/586030925119693140_120x96.png",
+                            "AdPost": "",
+                            "Tag": null,
+                            "Badge": null
+                        },
+                        {
+                            "GroupName": "37",
+                            "Remark1": "",
+                            "CommodityId": "",
+                            "BannerId": "4d337427-914e-4ada-b997-87672319b3a0",
+                            "BannerName": "生活家",
+                            "LinkChannel": 3,
+                            "LinkType": 3,
+                            "LinkCode": "live",
+                            "LinkUrl": "http://article.m.yiguo.com/Article/Category/live",
+                            "PictureUrl": "http://img12.yiguoimg.com/e/ad/2016/161020/586030925119725908_120x96.png",
+                            "AdPost": "",
+                            "Tag": null,
+                            "Badge": null
+                        },
+                        {
+                            "GroupName": "37",
+                            "Remark1": "",
+                            "CommodityId": "",
+                            "BannerId": "30328b5a-700f-427a-ae7d-e49dd6d4a801",
+                            "BannerName": "爱试吃",
+                            "LinkChannel": 3,
+                            "LinkType": 3,
+                            "LinkCode": "tryEat",
+                            "LinkUrl": "http://article.m.yiguo.com/Article/Category/tryEat",
+                            "PictureUrl": "http://img09.yiguoimg.com/e/ad/2017/170117/586030927703745073_120x96.png",
+                            "AdPost": "",
+                            "Tag": null,
+                            "Badge": null
+                        }
+                    ],
+                    "IsDynamic": false
+                }
+            }
+        }
+    }
+]
